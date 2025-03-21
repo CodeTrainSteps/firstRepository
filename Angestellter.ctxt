@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Angestellter
+comment1.params=
+comment1.target=Angestellter()
+comment2.params=nachname\ vorname\ geburtsJahr\ einstellungsJahr
+comment2.target=Angestellter(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getGeburtsJahr()
+comment4.params=
+comment4.target=int\ getEinstJahr()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=other
+comment6.target=int\ compareTo(Angestellter)
+numComments=7
